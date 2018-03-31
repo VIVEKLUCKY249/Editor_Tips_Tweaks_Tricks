@@ -31,3 +31,25 @@ https://github.com/SublimeLinter/SublimeLinter-jsl
     }
 }
 ```
+
+### Sublime Text 3 User Specific Settings ###
+```sublime-settings
+// User specific settings for ST3 Editor
+{
+	"bold_folder_labels": true,
+	"detect_indentation": true,
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_wrap": true
+}
+```
