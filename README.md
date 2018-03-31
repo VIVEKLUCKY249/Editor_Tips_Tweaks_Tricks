@@ -13,7 +13,7 @@ https://github.com/SublimeLinter/SublimeLinter-jsl
 ### Settings: ###
 
 ```sublime-settings
-// %AppData%\..\Sublime Text 3\Packages\User\SublimeLinter.sublime-settings
+// %AppData%\..\Roaming\Sublime Text 3\Packages\User\SublimeLinter.sublime-settings
 {
     "linters": {
         "php": {
