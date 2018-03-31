@@ -7,5 +7,5 @@
 Links:
 http://www.sublimelinter.com/en/stable/  
 https://github.com/SublimeLinter/SublimeLinter  
-https://github.com/SublimeLinter/SublimeLinter-php
+https://github.com/SublimeLinter/SublimeLinter-php  
 https://github.com/SublimeLinter/SublimeLinter-jsl  
