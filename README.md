@@ -9,3 +9,21 @@ http://www.sublimelinter.com/en/stable/
 https://github.com/SublimeLinter/SublimeLinter  
 https://github.com/SublimeLinter/SublimeLinter-php  
 https://github.com/SublimeLinter/SublimeLinter-jsl  
+
+### Settings: ###
+
+```sublime-settings
+// %AppData%\..\Sublime Text 3\Packages\User\SublimeLinter.sublime-settings
+{
+    "linters": {
+        "php": {
+            "cmd": "C:\\Webroot\\php5633\\php.exe"
+        }
+    },
+    "paths": {
+        "windows":[
+            "C:\\Webroot\\Jsl030\\jsl.exe"
+        ]
+    }
+}
+```
