@@ -17,12 +17,16 @@ https://github.com/SublimeLinter/SublimeLinter-jsl
 {
     "linters": {
         "php": {
-            "cmd": "C:\\Webroot\\php5633\\php.exe"
+            "cmd": "C:\\Webroot\\php5633\\php.exe",
+            "cmd": "C:/Webroot/php5633/php.exe"
         }
     },
     "paths": {
         "windows":[
             "C:\\Webroot\\Jsl030\\jsl.exe"
+        ],
+        "windows":[
+            "C:/Webroot/Jsl030/jsl.exe"
         ]
     }
 }
