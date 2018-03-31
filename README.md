@@ -4,8 +4,8 @@
 
 ### Sublime Text 3 Recommended Plugins and their optimal settings ###
 
-Links:	
-http://www.sublimelinter.com/en/stable/	
-https://github.com/SublimeLinter/SublimeLinter	
-https://github.com/SublimeLinter/SublimeLinter-php	
-https://github.com/SublimeLinter/SublimeLinter-jsl	
+Links:  
+http://www.sublimelinter.com/en/stable/  
+https://github.com/SublimeLinter/SublimeLinter  
+https://github.com/SublimeLinter/SublimeLinter-php  
+https://github.com/SublimeLinter/SublimeLinter-jsl  
